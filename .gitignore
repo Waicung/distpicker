@@ -1,7 +1,15 @@
 # Project
+archives
+demo
+dev
+develop
+development
 node_modules
-bower_components
-dist/*.map
+release
+releases
+resources
+site
+*.map
 /_*
 
 # Windows image file caches
